@@ -1,0 +1,21 @@
+# Global ignores
+.DS_Store
+*.log
+.env
+*.env
+*.pyc
+__pycache__/
+*.pkl
+
+# Node.js
+node_modules/
+uploads/
+dist/
+build/
+
+# Python
+ai-service/venv/
+ai-service/__pycache__/
+
+# VS Code
+.vscode/
